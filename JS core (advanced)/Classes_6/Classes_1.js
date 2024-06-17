@@ -21,4 +21,5 @@ class People {
 const people1 = new People('Alex', 20, 'Belarus')
 const people2 = new People('Kate', 30, 'Belarus')
 console.log(people1.information())
+console.log(people1.information())
 console.log(people2.information())
